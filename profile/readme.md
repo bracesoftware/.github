@@ -8,4 +8,4 @@
 
 ## Redistributed Projects
 
-- **Discord Connector** ¤ Package of useful DCC-related libraries!
+- **Discord Connector+** ¤ Package of useful DCC-related libraries!
