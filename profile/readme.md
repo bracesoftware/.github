@@ -1,7 +1,7 @@
 # SA:MP API
 :zap: ¤ An unofficial team of SA:MP developers working on improving the API and the game!
 
-- Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server!
+- Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/samp-api/samp-wiki) to access the SA:MP wikipedia!
 
 ## Official Projects
 
