@@ -3,6 +3,11 @@
 
 - Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/samp-api/samp-wiki) to access the SA:MP wikipedia!
 
+## SA:MP API Team
+
+- **`[DEntisT](https://github.com/dentis-t)`**
+- **`[Alan](https://github.com/meisalan)`**
+
 ## Official Projects
 
 - **DETUtils** ¤ A package of libraries whose provide you more Pawn features, SA:MP functions and more!
