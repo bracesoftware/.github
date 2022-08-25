@@ -5,8 +5,8 @@
 
 ## SA:MP API Team
 
-- **`[DEntisT](https://github.com/dentis-t)`**
-- **`[Alan](https://github.com/meisalan)`**
+- **[DEntisT](https://github.com/dentis-t)**
+- **[Alan](https://github.com/meisalan)**
 
 ## Official Projects
 
