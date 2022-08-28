@@ -13,6 +13,10 @@
 - **DETUtils** ¤ A package of libraries whose provide you more Pawn features, SA:MP functions and more!
 - **Pawn-PDK** ¤ A set of macros whose allow you to write kind of plugins in Pawn.
 
+## Modified Projects
+
+- **SA:MP Standard Library Package** ¤ The modified San Andreas Multiplayer standard library package originally made by SA:MP team.
+
 ## Redistributed Projects
 
 - **Discord Connector+** ¤ Package of useful DCC-related libraries!
