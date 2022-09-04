@@ -5,8 +5,10 @@
 
 ## SA:MP API Team
 
-- **[DEntisT](https://github.com/dentis-t)**
-- **[Alan](https://github.com/meisalan)**
+| Contributor | Role(s) |
+|----------------------------------|----------------------------------|
+| **[DEntisT](https://github.com/dentis-t)** | Founder, organization administrator, DETUtils maintainer |
+| **[Alan](https://github.com/meisalan)** | Organization member, SA:MP API maintainer |
 
 ## Official Projects
 
