@@ -14,6 +14,7 @@
 
 - [**DETUtils**](https://github.com/samp-api/DETUtils) ¤ A package of libraries whose provide you more Pawn features, SA:MP functions and more!
 - [**DamnLarper**](https://github.com/samp-api/DamnLarper) ¤ Multi-purpose and feature-rich Discord bot written in Pawn!
+- [**D++**](https://github.com/samp-api/dpp) ¤ A little programming language written in Pawn.
 
 ## Modified Projects
 
