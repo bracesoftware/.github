@@ -16,6 +16,9 @@
 - [**DamnLarper**](https://github.com/samp-api/DamnLarper) ¤ Multi-purpose and feature-rich Discord bot written in Pawn!
 - [**D++**](https://github.com/samp-api/dpp) ¤ A little programming language written in Pawn.
 
+
+All of the official products of the `samp-api` team are licensed with `Mozilla Public License Version 2.0`.
+
 ## Modified Projects
 
 - [**SA:MP Standard Library Package**](https://github.com/samp-api/samp-stdlib) ¤ The modified San Andreas Multiplayer standard library package originally made by SA:MP team.
