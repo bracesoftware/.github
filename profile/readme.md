@@ -19,6 +19,7 @@
 ## Modified Projects
 
 - [**SA:MP Standard Library Package**](https://github.com/samp-api/samp-stdlib) ¤ The modified San Andreas Multiplayer standard library package originally made by SA:MP team.
+- [**Pawn Standard Library Package**](https://github.com/samp-api/pawn-stdlib) ¤ The modified Pawn standard library package originally made by Pawn team.
 
 ## Redistributed Projects
 
