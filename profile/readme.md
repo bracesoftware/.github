@@ -18,7 +18,7 @@
 
 ## Modified Projects
 
-- **SA:MP Standard Library Package** ¤ The modified San Andreas Multiplayer standard library package originally made by SA:MP team.
+- [**SA:MP Standard Library Package**](https://github.com/samp-api/samp-stdlib) ¤ The modified San Andreas Multiplayer standard library package originally made by SA:MP team.
 
 ## Redistributed Projects
 
