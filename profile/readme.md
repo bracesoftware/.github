@@ -1,4 +1,10 @@
-# Brace™
+<p align="center">
+  <img width="200" align="center" src="brace_logo.jpg">
+</p>
+<h1 align = "center"><b>Brace™</b> Wiki</h1>
+<h3 align = "center">
+  Information Technology made Interesting</h3>
+  
 > :zap: ¤ A team bringing people closer to each other through information technology.
 
 - Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/bracetm/samp-wiki) to access the SA:MP wikipedia!
