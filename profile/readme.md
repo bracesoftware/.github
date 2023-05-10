@@ -1,7 +1,7 @@
 <p align="center">
   <img width="200" align="center" src="brace_logo.jpg">
 </p>
-<h1 align = "center"><b>Brace™</b> Wiki</h1>
+<h1 align = "center"><b>Brace™</b></h1>
 <h3 align = "center">
   Information Technology made Interesting</h3>
   
