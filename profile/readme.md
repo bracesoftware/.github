@@ -3,7 +3,7 @@
 </p>
 <h1 align = "center"> </h1>
 <h3 align = "center">
-  Information Technology made Interesting</h3>
+  Information Technology Made Interesting.</h3>
   
 > :zap: ¤ A team bringing people closer to each other through information technology.
 
