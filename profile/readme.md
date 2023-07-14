@@ -32,4 +32,4 @@
 
 ## Redistributed Projects
 
-- **Discord Connector+** ¤ Package of useful DCC-related libraries!
+- [**Discord Connector+**](https://github.com/bracetm/discord-connector) ¤ Package of useful DCC-related libraries!
