@@ -11,10 +11,16 @@
 
 ## Brace™ Staff
 
-| Contributor | Role(s) |
+| Staff member | Role(s) |
 |----------------------------------|----------------------------------|
 | **[DEntisT](https://github.com/dentis-t)** | Founder, organization administrator, D++ and DETUtils maintainer |
 | **[Alan](https://github.com/meisalan)** | Organization member, SA:MP API maintainer |
+
+### Contributors
+
+| Contributors | Contribution |
+|----------------------------------|----------------------------------|
+| **[paradox-detth](https://github.com/paradox-detth)** | D++ logo |
 
 ## Official Projects
 
