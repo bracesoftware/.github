@@ -5,6 +5,8 @@
 <h3 align = "left">
   Information Technology made Interesting.
 </h3>
+
+<br></br>
 <br></br>
 
 > 🖱️ ¤ A team bringing people closer to each other through information technology.
