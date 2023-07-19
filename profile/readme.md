@@ -7,7 +7,7 @@
 </h3>
 <br></br>
 
-> :zap: ¤ A team bringing people closer to each other through information technology.
+> 🖱️ ¤ A team bringing people closer to each other through information technology.
 
 - Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/bracetm/samp-wiki) to access the SA:MP wikipedia!
 
