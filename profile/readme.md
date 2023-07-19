@@ -1,9 +1,11 @@
-<p align="center">
+<p align="left">
   <img width="200" align="center" src="https://cdn.discordapp.com/attachments/718568080795500665/1105894179613179994/IMG_20230510_182806_803.jpg">
 </p>
-<h1 align = "center"> </h1>
-<h3 align = "center">
+<h1 align = "left"> </h1>
+<h3 align = "left">
   Information Technology Made Interesting.</h3>
+
+<br></br>
   
 > :zap: ¤ A team bringing people closer to each other through information technology.
 
