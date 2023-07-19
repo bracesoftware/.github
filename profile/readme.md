@@ -1,12 +1,12 @@
 <p align="left">
-  <img width="200" align="center" src="https://cdn.discordapp.com/attachments/718568080795500665/1105894179613179994/IMG_20230510_182806_803.jpg">
+  <img width="200" align="left" src="https://cdn.discordapp.com/attachments/1130879376423145522/1130879404705337484/dpp_logo.png">
 </p>
-<h1 align = "left"> </h1>
+<h1 align = "left">Welcome to <b>Brace</b> Wiki</h1>
 <h3 align = "left">
-  Information Technology Made Interesting.</h3>
-
+  Information Technology made Interesting.
+</h3>
 <br></br>
-  
+
 > :zap: ¤ A team bringing people closer to each other through information technology.
 
 - Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/bracetm/samp-wiki) to access the SA:MP wikipedia!
