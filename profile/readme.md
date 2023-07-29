@@ -32,7 +32,7 @@
 
 - [**DETUtils**](https://github.com/bracetm/DETUtils) ¤ A package of libraries whose provide you more Pawn features, SA:MP functions and more!
 - [**DamnLarper**](https://github.com/bracetm/DamnLarper) ¤ Multi-purpose and feature-rich Discord bot written in Pawn!
-- [**D++**](https://github.com/bracetm/dpp) ¤ A little programming language written in Pawn.
+- [**PawnScript**](https://github.com/bracetm/pawnscript) ¤ A little programming language written in Pawn.
 
 
 > All of the official products of the `Brace™` team are licensed with `Mozilla Public License Version 2.0`.
@@ -45,3 +45,7 @@
 ## Redistributed Projects
 
 - [**Discord Connector+**](https://github.com/bracetm/discord-connector) ¤ Package of useful DCC-related libraries!
+
+### Archived projects
+
+- [**D++**](https://github.com/bracetm/dpp) ¤ A little programming language written in Pawn.
