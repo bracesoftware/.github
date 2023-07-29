@@ -17,7 +17,7 @@
 
 | Staff member | Role(s) |
 |----------------------------------|----------------------------------|
-| **[DEntisT](https://github.com/dentis-t)** | Organization member, D++ and DETUtils maintainer |
+| **[DEntisT](https://github.com/dentis-t)** | Organization member || DamnLarper, D++ and DETUtils maintainer || |
 | **[paradox-detth](https://github.com/paradox-detth)** | Organization member |
 | **[WinDoge](https://github.com/windogeplays)** | Organization member |
 | **[Ivan](https://github.com/ivanboskic1)** | Organization member |
