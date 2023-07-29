@@ -17,14 +17,16 @@
 
 | Staff member | Role(s) |
 |----------------------------------|----------------------------------|
-| **[DEntisT](https://github.com/dentis-t)** | Founder, organization administrator, D++ and DETUtils maintainer |
-| **[Alan](https://github.com/meisalan)** | Organization member, SA:MP API maintainer |
+| **[DEntisT](https://github.com/dentis-t)** | Organization member, D++ and DETUtils maintainer |
+| **[paradox-detth](https://github.com/paradox-detth)** | Organization member |
+| **[WinDoge](https://github.com/windogeplays)** | Organization member |
+| **[Ivan](https://github.com/ivanboskic1)** | Organization member |
 
-### Contributors
+### Other contributors
 
 | Contributors | Contribution |
 |----------------------------------|----------------------------------|
-| **[paradox-detth](https://github.com/paradox-detth)** | D++ logo |
+| **[aezakmi](https://github.com/)** | Productive testing |
 
 ## Official Projects
 
