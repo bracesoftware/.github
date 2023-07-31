@@ -21,6 +21,7 @@
 | **[paradox-detth](https://github.com/paradox-detth)** | Organization member |
 | **[WinDoge](https://github.com/nermanlegacy)** | Organization member |
 | **[Ivan](https://github.com/ivanboskic1)** | Organization member |
+| **[Trinty](https://github.com/trinty-less)** | Organization member |
 
 ### Other contributors
 
