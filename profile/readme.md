@@ -53,3 +53,6 @@
 ### Archived projects
 
 - [**D++**](https://github.com/bracetm/dpp) ¤ Predecessor of PawnScript.
+
+
+<sub>©️ Brace™️ Inc.</sub>
