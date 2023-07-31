@@ -47,6 +47,8 @@
 
 - [**Discord Connector+**](https://github.com/bracetm/discord-connector) ¤ Package of useful DCC-related libraries!
 
+-------------------------------------------------------
+
 ### Archived projects
 
-- [**D++**](https://github.com/bracetm/dpp) ¤ A little programming language written in Pawn.
+- [**D++**](https://github.com/bracetm/dpp) ¤ Predecessor of PawnScript.
