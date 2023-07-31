@@ -47,7 +47,8 @@
 
 - [**Discord Connector+**](https://github.com/bracetm/discord-connector) ¤ Package of useful DCC-related libraries!
 
--------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### Archived projects
 
