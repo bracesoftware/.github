@@ -31,10 +31,12 @@
 
 ## Official Projects
 
+### Backend
 - [**DETUtils**](https://github.com/bracetm/DETUtils) ¤ A package of libraries whose provide you more Pawn features, SA:MP functions and more!
 - [**DamnLarper**](https://github.com/bracetm/DamnLarper) ¤ Multi-purpose and feature-rich Discord bot written in Pawn!
 - [**PawnScript**](https://github.com/bracetm/pawnscript) ¤ A little programming language written in Pawn.
-
+### Frontend
+- [**kenny-project**](https://github.com/bracetm/kenny-project) ¤ A simple gamemode you can get started with.
 
 > All of the official products of the `Brace™` team are licensed with `Mozilla Public License Version 2.0`.
 
