@@ -63,7 +63,7 @@
 | Icon | Language |
 |----------------------------------|----------------------------------|
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135928708901904434/Pawn_logo.png" width=20> | Pawn |
-| <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135929045473824838/ISO_C_Logo.svg.png" width=20> | C++ |
+| <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135929045473824838/ISO_C_Logo.svg.png" width=30> | C++ |
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1134837198336819240/chess-game-piece-clipart-design-illustration-free-png.png" width=20> | PawnScript |
 
 <sub>©️ Brace™️ Inc.</sub>
