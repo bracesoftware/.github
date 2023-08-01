@@ -11,7 +11,7 @@
 
 | Staff member | Role(s) |
 |----------------------------------|----------------------------------|
-| **[DEntisT](https://github.com/dentis-t)** | Organization member ¤ `DamnLarper, PawnScript and DETUtils maintainer` |
+| **[DEntisT](https://github.com/dentis-t)** | Organization member |
 | **[paradox-detth](https://github.com/paradox-detth)** | Organization member |
 | **[WinDoge](https://github.com/nermanlegacy)** | Organization member |
 | **[Ivan](https://github.com/ivanboskic1)** | Organization member |
