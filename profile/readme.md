@@ -60,6 +60,7 @@
 
 ### Top languages
 
+| Icon | Language |
 |----------------------------------|----------------------------------|
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135928708901904434/Pawn_logo.png" width=20> | Pawn |
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135929045473824838/ISO_C_Logo.svg.png" width=20> | C++ |
