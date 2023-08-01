@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="200" align="left" src="https://cdn.discordapp.com/attachments/1130879376423145522/1133644280846618664/IMG_20230726_081514_941.jpg">
+  <img width="200" align="left" src="https://cdn.discordapp.com/attachments/1130879376423145522/1135956488456765550/IMG_20230801_172332_798.jpg">
 </p>
 <h1 align = "left">Welcome to <i><b>Brace™️</b></i></h1>
 <h3 align = "left">
