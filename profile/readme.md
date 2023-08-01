@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" align="center" src="https://cdn.discordapp.com/attachments/1130879376423145522/1135959110056149002/BRACETEAM_-_Copy.png">
+  <img width="300" align="center" src="https://cdn.discordapp.com/attachments/1130879376423145522/1135959110056149002/BRACETEAM_-_Copy.png">
 </p>
 
 
