@@ -1,8 +1,7 @@
-<p align="left">
-  <img width="200" align="left" src="https://cdn.discordapp.com/attachments/1130879376423145522/1135956488456765550/IMG_20230801_172332_798.jpg">
+<p align="center">
+  <img width="200" align="center" src="https://cdn.discordapp.com/attachments/1130879376423145522/1135956488456765550/IMG_20230801_172332_798.jpg">
 </p>
-<h1 align = "left">Welcome to <i><b>Brace™️</b></i></h1>
-<h3 align = "left">
+<h3 align = "center">
   Information Technology made Interesting.
 </h3>
 
