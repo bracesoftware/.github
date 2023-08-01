@@ -56,5 +56,12 @@
 
 - [**D++**](https://github.com/bracetm/dpp) ¤ Predecessor of PawnScript.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+### Top languages
+
+- <img src= "https://www.compuphase.com/images/pawnicon48.gif" width=16> **PAWN**
+- <img src= "https://www.compuphase.com/images/pawnicon48.gif" width=16> **PawnScript**
+- <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=16> **C++**
 
 <sub>©️ Brace™️ Inc.</sub>
