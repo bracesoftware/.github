@@ -1,12 +1,9 @@
 <p align="center">
   <img width="200" align="center" src="https://cdn.discordapp.com/attachments/1130879376423145522/1135956488456765550/IMG_20230801_172332_798.jpg">
 </p>
-<h3 align = "center">
+<h2 align = "center">
   Information Technology made Interesting.
-</h3>
-
-<br></br>
-<br></br>
+</h2>
 
 > 🖱️ ¤ A team bringing people closer to each other through information technology.
 
