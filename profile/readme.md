@@ -3,11 +3,9 @@
 </p>
 
 
-> 🖱️ ¤ A team bringing people closer to each other through information technology.
-
 - Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/bracetm/samp-wiki) to access the SA:MP wikipedia!
 
-> All of the official products of the `Brace™` team are licensed with `Mozilla Public License Version 2.0`.
+> All of the official products of the `Brace™` team are licensed with `Mozilla Public License Version 2.0`. We're fully open source!
 
 --------------------------------------------------------------------------------------------------------------------------------
 
