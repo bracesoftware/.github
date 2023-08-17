@@ -5,7 +5,7 @@
 
 - Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/bracetm/samp-wiki) to access the SA:MP wikipedia!
 
-> All of the official products of the `Brace™` team are licensed with `Mozilla Public License Version 2.0`. We're fully open source!
+> All of the official products of the `Brace™` team are licensed with `Mozilla Public License`. We're fully open source!
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,5 +17,7 @@
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135929045473824838/ISO_C_Logo.svg.png" width=30> | C++ |
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1134837198336819240/chess-game-piece-clipart-design-illustration-free-png.png" width=20> | PawnScript |
 | <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1141807430406258718/asm.png" width=40> | AMX Assembly |
+
+For business inquires contact us on any of our social media to get in touch with our support team, or do it via mail bracetm.official@gmail.com.
 
 <sub>©️ Brace™️ Inc.</sub>
