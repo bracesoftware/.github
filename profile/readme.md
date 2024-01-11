@@ -20,4 +20,8 @@
 
 For business inquires contact us on any of our social media to get in touch with our support team, or do it via mail bracetm.official@gmail.com.
 
+
+### Beta program
+- Help us extract the best from our products by contacting us at bracetm.official@gmail.com!
+
 <sub>©️ Brace™️ Inc.</sub>
