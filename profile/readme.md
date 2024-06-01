@@ -13,10 +13,10 @@
 
 | Icon | Language |
 |----------------------------------|----------------------------------|
-| <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135928708901904434/Pawn_logo.png" width=20 align="center"> | Pawn |
-| <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1135929045473824838/ISO_C_Logo.svg.png" width=30 align="center"> | C++ |
-| <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1134837198336819240/chess-game-piece-clipart-design-illustration-free-png.png" width=20 align="center"> | PawnScript |
-| <img src= "https://cdn.discordapp.com/attachments/1130879376423145522/1141807430406258718/asm.png" width=40 align="center"> | AMX Assembly |
+| <img src= "pawn.png" width=20 align="center"> | Pawn |
+| <img src= "cpp.png" width=30 align="center"> | C++ |
+| <img src= "pawnscript.png" width=20 align="center"> | PawnScript |
+| <img src= "asm.png" width=40 align="center"> | AMX Assembly |
 
 For business inquires contact us on any of our social media to get in touch with our support team, or do it via mail bracetm.official@gmail.com.
 
