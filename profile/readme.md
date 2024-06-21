@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" align="center" src="bracetm_title.png">
+  <img width="300" align="center" src="brace_slogan.png">
 </p>
 
 
