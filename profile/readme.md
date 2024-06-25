@@ -16,7 +16,10 @@
 | <img src= "pawn.png" width=20 align="center"> | Pawn |
 | <img src= "cpp.png" width=30 align="center"> | C++ |
 | <img src= "pawnscript.png" width=20 align="center"> | PawnScript |
+| <img src= "javascript.png" width=40 align="center"> | JavaScript |
 | <img src= "asm.png" width=40 align="center"> | AMX Assembly |
+| <img src= "css.png" width=40 align="center"> | CSS |
+| <img src= "html.png" width=40 align="center"> | HTML |
 
 For business inquires contact us on any of our social media to get in touch with our support team, or do it via mail bracetm.official@gmail.com.
 
