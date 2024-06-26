@@ -1,6 +1,4 @@
-<style>
-  .lol{border-radius:5px;}
-</style>
+
 <p align="center">
   <img width="300" class="lol" align="center" src="brace_slogan.png">
 </p>
