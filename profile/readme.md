@@ -28,4 +28,7 @@ For business inquires contact us on any of our social media to get in touch with
 ### Beta program
 - Help us extract the best from our products by contacting us at bracetm.official@gmail.com!
 
-<sub>©️ Brace™️ Inc.</sub>
+### Web
+- Access our website via this [link](https://bracesoftware.github.io/web/index.html).
+
+<sub>©️ Brace™️ Co.</sub>
