@@ -21,6 +21,7 @@
 | <img src= "asm.png" width=40 align="center"> | AMX Assembly |
 | <img src= "css.png" width=40 align="center"> | CSS |
 | <img src= "html.png" width=40 align="center"> | HTML |
+| <img src= "newasm_logo.png" width=40 align="center"> | New-ASM |
 
 For business inquires contact us on any of our social media to get in touch with our support team, or do it via mail bracetm.official@gmail.com.
 
