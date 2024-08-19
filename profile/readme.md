@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" class="lol" align="center" src="brace_slogan.png">
+  <img width="300" class="lol" align="center" src="https://bracesoftware.github.io/web/visual_resources/brace_slide4.png">
 </p>
 
 
