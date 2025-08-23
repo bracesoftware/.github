@@ -15,6 +15,7 @@
 | Icon | Language |
 |----------------------------------|----------------------------------|
 | <img src= "cpp.png" width=30 align="center"> | C++ |
+| <img src= "go-8x.png" width=30 align="center"> | Go! |
 | <img src= "https://github.com/bracesoftware/newasm/blob/main/readme_resources/newasm_logo.png" width=40 align="center"> | NewASM |
 | <img src= "pawn.png" width=20 align="center"> | Pawn |
 | <img src= "pawnscript.png" width=20 align="center"> | PawnScript |
