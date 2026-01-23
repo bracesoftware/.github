@@ -3,8 +3,8 @@
   <img width="600" class="" align="center" src="https://bracesoftware.github.io/web/visual_resources/brace_slide4.png">
 </p>
 
-
-- Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server - or [this link](https://github.com/bracetm/samp-wiki) to access the SA:MP wikipedia!
+## Information technology made interesting.
+- Interested in contribution, development or whatsoever? [Click this link](https://discord.gg/k54r9YVY8R), and join our official Discord server!
 
 > All of the official products of the `Brace™` team are licensed with `Mozilla Public License`. We're fully open source!
 
