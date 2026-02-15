@@ -14,7 +14,7 @@
 
 | Icon | Language |
 |----------------------------------|----------------------------------|
-| <img src= "cpp.png" width=30 align="center"> | C++ |
+| <img src= "cpp.png" width=30 align="center"> <img src= "bc++.png" width=30 align="center"> | C++/BC++ |
 | <img src= "java_logo.png" width=30 align="center"> | Java |
 | <img src= "go-8x.png" width=30 align="center"> | Go! |
 | <img src= "https://github.com/bracesoftware/newasm/blob/main/readme_resources/newasm_logo.png" width=40 align="center"> | NewASM |
